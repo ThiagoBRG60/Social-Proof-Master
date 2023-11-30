@@ -19,8 +19,8 @@
   }
   .reviews {
     width: 360px;
-    top: 360px;
-    left: 0;
+    top: 30px;
+    right: 31px;
   }
   .reviews h2 {
     margin-left: 0px;
@@ -50,7 +50,7 @@
   .buyers-review {
     display: block;
     width: 360px;
-    top: 370px;
+    top: 70px;
   }
   .buyer1,
   .buyer2,
@@ -100,7 +100,8 @@
     margin-top: 25px;
   }
   .reviews {
-    top: 300px;
+    top: 30px;
+    right: 15px;
   }
   .star-review,
   .star-review2,
@@ -110,7 +111,7 @@
   }
   .buyers-review {
     width: 340px;
-    top: 350px;
+    top: 70px;
   }
   .buyer1,
   .buyer2,
@@ -134,7 +135,8 @@
     margin-top: 25px;
   }
   .reviews {
-    top: 300px;
+    top: 30px;
+    right: 9px;
   }
   .star-review,
   .star-review2,
@@ -144,7 +146,7 @@
   }
   .buyers-review {
     width: 340px;
-    top: 350px;
+    top: 70px;
   }
   .buyer1,
   .buyer2,
@@ -168,7 +170,8 @@
     margin-top: 25px;
   }
   .reviews {
-    top: 300px;
+    top: 30px;
+    right: 0px;
   }
   .star-review,
   .star-review2,
@@ -178,7 +181,7 @@
   }
   .buyers-review {
     width: 320px;
-    top: 350px;
+    top: 70px;
   }
   .buyer1,
   .buyer2,
@@ -199,6 +202,9 @@
   }
   .title p {
     font-size: 18px;
+  }
+  .reviews {
+    left: 40px;
   }
   .star-review,
   .star-review2,
